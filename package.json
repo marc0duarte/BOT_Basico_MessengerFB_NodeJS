@@ -1,0 +1,24 @@
+{
+  "name": "bot_dialogflow_nodejs",
+  "version": "1.0.0",
+  "description": "Proyecto BOT implementado en NODEJS con uso de Dialogflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marc0duarte/BOT_DialogFlow_NodeJS.git"
+  },
+  "author": "marc0duarte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marc0duarte/BOT_DialogFlow_NodeJS/issues"
+  },
+  "homepage": "https://github.com/marc0duarte/BOT_DialogFlow_NodeJS#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
